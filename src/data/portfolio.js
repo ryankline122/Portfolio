@@ -1,26 +1,26 @@
 export default [
 
     {
-        title: 'Project',
-        imgUrl: '',
-        tag: 'Web',
-        stack: ['Language1', 'Language2', 'Framework'],
+        title: 'Connect 4',
+        imgUrl: '/assets/c4Go.png',
+        tag: 'CLI',
+        stack: ['Golang'],
         link: 'example.com'
     },
 
     {
-        title: 'Project',
-        imgUrl: '',
-        tag: 'Mobile',
-        stack: ['Language1', 'Language2', 'Framework'],
+        title: '2D Endless Runner',
+        imgUrl: '/assets/Runner.jpg',
+        tag: 'Mobile Game',
+        stack: ['Unity', 'C#', 'Android'],
         link: 'example.com'
     },
 
     {
-        title: 'Project',
-        imgUrl: '',
+        title: 'Raspberry Pi Banking Application',
+        imgUrl: '/assets/ATM.png',
         tag: 'Raspberry Pi',
-        stack: ['Language1', 'Language2', 'Framework'],
+        stack: ['Python', 'SQLite3', 'Tkinter'],
         link: 'example.com'
     }
 

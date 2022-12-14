@@ -10,8 +10,24 @@ function App() {
   return (
     <div className="App">
         <Intro />
-        {/* <Experience /> */}
-        <Portfolio />
+
+        <div className="mb-20">
+          <h2 className="flex items-center justify-center text-4xl md:text-4xl mb-1 
+            md:mb-5 font-bold">
+            Latest Projects
+          </h2>
+          <Portfolio />
+        </div>
+        
+
+        <h2 className="flex items-center justify-center text-4xl md:text-4xl mb-1 
+          md:mb-5 font-bold">
+          Experience
+        </h2>
+        <Experience />
+
+        
+        
         {/* <Contact /> */}
     </div>
   )

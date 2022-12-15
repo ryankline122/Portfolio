@@ -3,7 +3,7 @@ import React from "react";
 function Contact(){
     return (
         <div className="flex flex-col mb-10 mx-auto">
-         <div className="flex justify-center items-center">
+         <div className="flex justify-center items-center mx-5">
             <form action="https://getform.io/f/41c30689-7d73-42b0-b40c-7740d1c659fc" method="POST" className="flex flex-col w-full md:w-7/12"> 
                 <input 
                     type="text" 

@@ -12,7 +12,7 @@ function App() {
         <Intro />
 
         <div className="mb-20">
-          <h2 className="flex items-center justify-center text-4xl md:text-4xl mb-1 
+          <h2 className="flex items-center justify-center text-4xl md:text-4xl
             md:mb-5 font-bold">
             Latest Projects
           </h2>
@@ -20,15 +20,24 @@ function App() {
         </div>
         
 
-        <h2 className="flex items-center justify-center text-4xl md:text-4xl mb-1 
-          md:mb-5 font-bold">
-          Experience
-        </h2>
-        <Experience />
+        <div className="mb-20">
+          <h2 className="flex items-center justify-center text-4xl md:text-4xl mb-1 
+            md:mb-5 font-bold">
+            Experience
+          </h2>
+          <Experience />
+        </div>
 
         
         
-        {/* <Contact /> */}
+        <div className="mb-20">
+          <h2 className="flex items-center justify-center text-4xl md:text-4xl mb-1 
+            md:mb-5 font-bold">
+            Contact
+          </h2>
+          <Contact />
+        </div>
+
     </div>
   )
 }

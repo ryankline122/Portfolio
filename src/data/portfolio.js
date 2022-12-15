@@ -1,10 +1,10 @@
 export default [
 
     {
-        title: 'Connect 4',
-        imgUrl: '/assets/c4Go.png',
-        tag: 'CLI',
-        stack: ['Golang'],
+        title: 'Developer Portfolio',
+        imgUrl: '/assets/webpage.png',
+        tag: 'Web',
+        stack: ['React', 'Tailwind CSS', 'Vite'],
         link: 'example.com'
     },
 
@@ -22,7 +22,14 @@ export default [
         tag: 'Raspberry Pi',
         stack: ['Python', 'SQLite3', 'Tkinter'],
         link: 'example.com'
-    }
+    },
 
+    {
+        title: 'Connect 4',
+        imgUrl: '/assets/c4Go.png',
+        tag: 'CLI',
+        stack: ['Golang'],
+        link: 'example.com'
+    }
 
 ]

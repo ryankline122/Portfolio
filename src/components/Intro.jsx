@@ -19,7 +19,8 @@ function Intro(){
                 
                 In addition to my studies, I have also had the opportunity to intern as a software engineer at 
                 DISHER. During my internship, I worked on a number of projects, including 
-                <a target="_blank" className="text-blue-600 dark:text-blue-500 hover:underline" href="https://www.insighttrac.com/"> InsightTrac's</a> autonomous rover. 
+                writing software tests for an autonomous rover, an internal marketing app, and a device to make the electronics lab more
+                accessible to remote team members. 
                 This experience allowed me to apply my knowledge and skills in a professional setting, and further develop 
                 my abilities as a programmer. As I complete my degree, I am eager to continue learning and growing as 
                 a software engineer. I am confident in my abilities and am excited to begin my career in the field.

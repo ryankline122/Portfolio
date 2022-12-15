@@ -24,11 +24,13 @@ export default [
         link: 'example.com'
     },
 
+    
+
     {
-        title: 'Connect 4',
+        title: 'Connect 4 in Various Languages',
         imgUrl: '/assets/c4Go.png',
         tag: 'CLI',
-        stack: ['Golang'],
+        stack: ['C', 'Scheme', 'JavaScript', 'Ruby', 'Go'],
         link: 'example.com'
     }
 
